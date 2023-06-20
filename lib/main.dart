@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:hive/hive.dart';
 import 'package:hive_flutter/adapters.dart';
-import 'package:sqflight_hive_database/Sqflite_database/sqfligte_screen.dart';
+import 'package:sqflight_hive_database/Sqflite_database/sqflite_screen.dart';
 import 'Hive_Database/screens/main_screen.dart';
 void main() async{
   WidgetsFlutterBinding.ensureInitialized();
